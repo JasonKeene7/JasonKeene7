@@ -18,13 +18,13 @@ You can click the Preview link to take a look at your changes.
 ## PCB Drawing
 
 # Familliar Programming Laguages
-> C++
+- C++
   The language I am currently most familliar (and currently working) with. I am very comfortable with classes, vectors, and using pointers to pass around parameters.
   
-  - Arduino
+  > Arduino
   Current and most familliar robotics platform. Recently experimenting with using the ATMega ICs in custom circuit boards to reduce footprint size and create a more professional looking final project.
   
-  - Propeller C
+  > Propeller C
   My first C based microcontroller from Parallax Inc.; likely has the largest collection of completed projects (albeit small ones) as of August 2022. It has 8-cores to multithread with, but I didn't experiment with that too much outside the tutorials.
   
 - BASIC 
@@ -40,9 +40,9 @@ You can click the Preview link to take a look at your changes.
 - CSS
   Natural progression from HTML, figured it more useful for website styling for keeping most settings in a single file. Took a month or two learning CSS after going through the HTML tutorial.
   
-> JavaScript
+- JavaScript
   Again, natural leadup from HTML, thook a few months learning that too. 
   Thinking back, I tended to split my JS files based on functionality as if I was coding classes, long before I had any clue of C++ -- good on me I guess.
   
-  - Node JS
+  > Node JS
   My first exposure to server-side programming, did not go very deep as I only needed it for my 2020 Capstone Project as an inbetween for my Arduino and webpage. Took *4-weeks* to even become aware of the terms server-side and client-side programming.
