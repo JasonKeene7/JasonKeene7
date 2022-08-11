@@ -9,13 +9,13 @@ You can click the Preview link to take a look at your changes.
 --->
 # Electronics
   My introduction to circuitry belongs to the BASIC microcontroller kit I played with in 2015, the included book containing the very basics in coding and electronics; Ohm's Law, how to read a resistor, polarity of various small components, and an introduction to ICs. Think it was a year later when I got the Propeller C robotics kit; breif taste in C programming (little did I know), came with a handful of more complex devices, first platform that could drive around an area too -- though nothing too sophisticated given the kit contents.
-  Then I got formal instructions at Dutchess Community College in 2018, first semester was mostly review, though that was also when I was introduced to the Arduino platform and the wide-wide world of ICs come Digital Circuits class 2nd semester. Would need to look this up, pretty sure by summer I began actively ordering parts to experiment with at home.
+  Then I got formal instructions at Dutchess Community College in 2018, first semester was mostly review, though that was also when I was introduced to the Arduino platform and the wide-wide world of ICs come Digital Circuits class 2nd semester. Would need to look this up, pretty sure by summer I began actively ordering parts to experiment with at home. My Capstone Project combined all my skills in circuitry, 3D-Printing, C++, and webpage (HTML, CSS, JavaScript) coding to create a *mostly* working remote controlled rover with an arm on top which is controled wirelessly via a joystick for driving and a webpage to control the arm, which was supposed to swap out toolheads but it ended up kinda jittery. Not sure if the servos were too weak, or I forgot to reopen the threads for the Arduino Ethernet Sheild, I'd start from scratch again if I find the motivation and time to redo the project.
 
-# CAD and 3D-Printing
-
-# Electrical Enginerring
+## Electrical Engineering
 
 ## PCB Drawing
+
+# CAD and 3D-Printing
 
 # Familliar Programming Laguages
 - C++
