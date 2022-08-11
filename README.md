@@ -7,6 +7,14 @@
 JasonKeene7/JasonKeene7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Electronics
+
+# CAD and 3D-Printing
+
+# Electrical Enginerring
+
+## PCB Drawing
+
 # Familliar Programming Laguages
 > C++
   The language I am currently most familliar (and currently working) with. I am very comfortable with classes, vectors, and using pointers to pass around parameters.
@@ -25,11 +33,14 @@ You can click the Preview link to take a look at your changes.
   I have three major projects written in HTML, CSS, and JavaScript: 
   First one is a joystick -- in the loosest sense -- the ball position can be updated by moving some sliders or entering XY-coordinates manually. 
   The second is a 0-1 logic analyser, using the canvas, timer functionality, and a bit of JQuery, where you can create and assign state changes to named lines with options to add signal propegation delay; change line color to represent HIGH or LOW signals with the option to both pick the colors and to add hysterisis; there's also functionality for adding logic lines, only added AND and OR gates, only the AND is glitchless (for all I know). This project is also what first prompted me to carefully scan a code library, needed *eval()* to change the website layout with JS.
-  My 2020 capstone project used a webpage to both display and send commands to a rover, which worked for the most part. Forgot to reopen threads for the Arduino Ethernet Sheild, think that's what caused the robot to spazz out every so often, think I had to reset the entire program ocasionally too...
+  My 2020 Capstone Project used a webpage to both display and send commands to a rover, which worked for the most part. Forgot to reopen threads for the Arduino Ethernet Sheild, think that's what caused the robot to spazz out every so often, think I had to reset the entire program ocasionally too...
   
 - CSS
   Natural progression from HTML, figured it more useful for website styling for keeping most settings in a single file. Took a month or two learning CSS after going through the HTML tutorial.
   
 > JavaScript
-  Again, natural leadup from HTML, thook a few months learning that too. Thinking back, 
+  Again, natural leadup from HTML, thook a few months learning that too. 
+  Thinking back, I tended to split my JS files based on functionality as if I was coding classes, long before I had any clue of C++ -- good on me I guess.
+  
   - Node JS
+  My first exposure to server-side programming, did not go very deep as I only needed it for my 2020 Capstone Project as an inbetween for my Arduino and webpage. Took *4-weeks* to even become aware of the terms server-side and client-side programming.
