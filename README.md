@@ -8,6 +8,8 @@ JasonKeene7/JasonKeene7 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 # Electronics
+  My introduction to circuitry belongs to the BASIC microcontroller kit I played with in 2015, the included book containing the very basics in coding and electronics; Ohm's Law, how to read a resistor, polarity of various small components, and an introduction to ICs. Think it was a year later when I got the Propeller C robotics kit; breif taste in C programming (little did I know), came with a handful of more complex devices, first platform that could drive around an area too -- though nothing too sophisticated given the kit contents.
+  Then I got formal instructions at Dutchess Community College in 2018, first semester was mostly review, though that was also when I was introduced to the Arduino platform and the wide-wide world of ICs come Digital Circuits class 2nd semester. Would need to look this up, pretty sure by summer I began actively ordering parts to experiment with at home.
 
 # CAD and 3D-Printing
 
@@ -26,7 +28,7 @@ You can click the Preview link to take a look at your changes.
   My first C based microcontroller from Parallax Inc.; likely has the largest collection of completed projects (albeit small ones) as of August 2022. It has 8-cores to multithread with, but I didn't experiment with that too much outside the tutorials.
   
 - BASIC 
-  My first introduction to coding and microcontrollers with a kit from Parallax Inc.. Think that was in 2015...
+  My first introduction to coding and microcontrollers with a kit from Parallax Inc.
   
 - HTML
   Introduced to HTML programming from the Propeller's Wifi module/tutorial, was having a hard time understanding what the webpage did so I took a summer learning the basics from W3Schools.
